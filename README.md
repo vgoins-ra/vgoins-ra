@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vgoins-ra
+- 👋 Hi, I’m Valerie Goins ( @vgoins-ra)
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning how to become a backend programmer
 
